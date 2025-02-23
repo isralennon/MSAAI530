@@ -1,8 +1,8 @@
-#### **Human Activity Recognition for Senior Adults Using Smart Devices**
+## **Human Activity Recognition for Senior Adults Using Smart Devices**
 
-## This project is part of the course USD MS AAI - 530 Data Analytics and Internet of Things - at the University of San Diego (USD).
+###This project is part of the course USD MS AAI - 530 Data Analytics and Internet of Things - at the University of San Diego (USD).
 
-## It was created by Team 2: Ali Mohtat, Israel Romero, and Yaakov Sternberg.
+It was created by Team 2: Ali Mohtat, Israel Romero, and Yaakov Sternberg.
 
 ### Installation
 

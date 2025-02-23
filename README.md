@@ -1,6 +1,6 @@
 ## **Human Activity Recognition for Senior Adults Using Smart Devices**
 
-###This project is part of the course USD MS AAI - 530 Data Analytics and Internet of Things - at the University of San Diego (USD).
+### This project is part of the course USD MS AAI - 530 Data Analytics and Internet of Things - at the University of San Diego (USD).
 
 It was created by Team 2: Ali Mohtat, Israel Romero, and Yaakov Sternberg.
 
@@ -27,6 +27,7 @@ This project aims to develop a classification model to correctly identify the ac
 #### Dataset
 - **Source**: https://doi.org/10.3390/S23052368
 - **Size**: The dataset contains 18 files with 45 minutes of activities captured with 2 accelerometers at 50Hz, for a total of over 2.5 million records.
+- **Tableau Public Visualization:** https://public.tableau.com/app/profile/israel.romero6956/viz/MSAAI-530-FinalProject-Group2/MainDashboard#1
 
 #### Models Used
 - **Random Forest:** An ensemble model that builds multiple decision trees and combines them for more stable and accurate predictions.
